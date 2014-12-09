@@ -7,9 +7,9 @@ Just set these varriables to your specifications
 
 ```php
 $this->server_admin     = 'cobolt.exe@gmail.com';
-    $this->company_domain   = 'panzer-planet.com';
-    $this->sites_available  = '/etc/apache2/sites-available';
-    $this->web_root         = '/var/www';
+$this->company_domain   = 'panzer-planet.com';
+$this->sites_available  = '/etc/apache2/sites-available';
+$this->web_root         = '/var/www';
 ```
 
 then from the command line run
