@@ -1,7 +1,7 @@
 kvhost
 ======
 
-A PHP script that create, delete and list apache2 virtual host config files
+A PHP script that creates, deletes and lists apache2 virtual host config files
 
 Just set these varriables to your specifications
 
